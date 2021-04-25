@@ -6,7 +6,6 @@
 #include <complex>
 #include <boost/format.hpp>
 #include "cpplapack/cpplapack.h"
-#include "bogoliubov.hpp"
 #include <iterator>
 
 using namespace std;
