@@ -1,1 +1,1 @@
-# mean-field
+# mean-field theory
